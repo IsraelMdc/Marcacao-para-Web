@@ -2,6 +2,23 @@ h1,p, h2{
     text-align: center;
 }
 
-body{
-    background-color: cornflowerblue;
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text_coffe {
+    text-align: left;
+    width: 50%;
+}
+
+.price_coffes {
+    text-align: right;
+    width: 50%;
+}
+
+.itens p{
+    display: inline-block;
 }
